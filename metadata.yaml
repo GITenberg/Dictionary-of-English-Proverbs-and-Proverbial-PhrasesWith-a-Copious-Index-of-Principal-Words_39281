@@ -9,6 +9,8 @@ covers:
 - cover_type: generated
   image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39281#Dictionary-of-English-Proverbs-and-Proverbial-PhrasesWith-a-Copious-Index-of-Principal-Words
 gutenberg_issued: '2012-03-27'
 gutenberg_type: Text
 identifiers:
