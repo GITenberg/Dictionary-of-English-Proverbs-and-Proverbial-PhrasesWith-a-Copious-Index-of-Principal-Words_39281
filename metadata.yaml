@@ -1,0 +1,27 @@
+_repo: Dictionary-of-English-Proverbs-and-Proverbial-PhrasesWith-a-Copious-Index-of-Principal-Words_39281
+_version: 0.1.0
+contributor:
+  compiler:
+    agent_name: Preston, Thomas
+    gutenberg_agent_id: '39937'
+    url: http://www.gutenberg.org/2009/agents/39937
+covers:
+- cover_type: generated
+  image_path: cover.png
+description: ''
+gutenberg_issued: '2012-03-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39281'
+  lccn: '13021653'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PN'
+- !lcsh 'Proverbs'
+title: 'Dictionary of English Proverbs and Proverbial Phrases
+
+  With a Copious Index of Principal Words'
+url: http://www.gutenberg.org/ebooks/39281
